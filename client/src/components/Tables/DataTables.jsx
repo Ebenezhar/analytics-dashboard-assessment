@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import TablePagination from '@mui/material/TablePagination';
 import MenuOptions from '../Menu/MenuOptions';
-import SearchBar from '../SupportingComponents/SearchBar';
 
 
 

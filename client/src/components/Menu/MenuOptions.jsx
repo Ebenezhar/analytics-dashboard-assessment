@@ -3,7 +3,6 @@ import Button from '@mui/material/Button';
 import Menu from '@mui/material/Menu';
 import MenuItem from '@mui/material/MenuItem';
 import Fade from '@mui/material/Fade';
-import Checkbox from '@mui/material/Checkbox';
 
 
 function MenuOptions({ data, chosenHeader, setChosenHeader }) {

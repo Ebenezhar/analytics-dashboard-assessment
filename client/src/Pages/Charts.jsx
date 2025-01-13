@@ -1,9 +1,7 @@
 import React, { useEffect } from 'react'
-import HorizontalBars from '../components/Charts/VerticalBars'
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchData } from '../actions/dataActions';
 import VerticalBars from '../components/Charts/VerticalBars';
-import { DEFAULT_Y_AXIS_KEY } from '@mui/x-charts';
 
 function Charts() {
     const dispatch = useDispatch();
